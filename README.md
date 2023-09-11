@@ -1,4 +1,4 @@
-[<img src="banner.jpg" alt="👋 Hi there! I'm Samuel Castro"
+<img src="banner.jpg" alt="👋 Hi there! I'm Samuel Castro"/>
 
 ## 📖 About Me
 - 🖥 Passionate about coding and learning
