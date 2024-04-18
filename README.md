@@ -3,7 +3,7 @@
 ## 📖 About Me
 - 🖥 Passionate about coding and learning
 - ☕ Crazy lover for coffee and cooking
-- 💼 Freelancer as a Fullstack developer
+- 💼 Fullstack developer at Sistema Boss
 - 🎓 Studying System Development and Analysis at Universidade Catolica de Brasilia (UCB)
 
 ## 💻 Tecnologies
